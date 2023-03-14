@@ -16,12 +16,14 @@
   * [Questions](#questions)
 
   ## Installation
-
-  
-
+ npm install dependencies 
+ MSQL2
+ Sequelize 
+ dotenv package
+ 
   ## Usage
-
-  
+npm start
+npm run seed 
 
   ## License
 
